@@ -1,0 +1,506 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-06-19T03:08:38Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1585452495",
+        "amenity": "pharmacy",
+        "dispensing": "no",
+        "name": "Karona Farma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6283624,
+          -10.1717594
+        ]
+      },
+      "id": "node/1585452495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1612723674",
+        "addr:city": "Kupang",
+        "addr:country": "ID",
+        "addr:housenumber": "18",
+        "addr:street": "Jl. Cak Doko",
+        "amenity": "pharmacy",
+        "contact:phone": "+62 38-0829398",
+        "dispensing": "yes",
+        "health_facility:access": "public",
+        "health_facility:type": "pharmacy",
+        "healthcare": "pharmacy",
+        "medical_system:western": "yes",
+        "name": "Apotik Kasih Bunda",
+        "opening_hours": "08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.5971815,
+          -10.1669369
+        ]
+      },
+      "id": "node/1612723674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1612726574",
+        "addr:city": "Kupang",
+        "addr:country": "ID",
+        "addr:postcode": "85361",
+        "addr:street": "Jl. Adisucipto",
+        "amenity": "pharmacy",
+        "contact:phone": "(0380) 882152",
+        "health_facility:access": "public",
+        "health_facility:type": "pharmacy",
+        "healthcare": "pharmacy",
+        "medical_system:western": "yes",
+        "name": "Genezaret Farma",
+        "opening_hours": "18:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6557487,
+          -10.1731928
+        ]
+      },
+      "id": "node/1612726574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1615127545",
+        "addr:city": "Kupang",
+        "addr:country": "ID",
+        "addr:housenumber": "19",
+        "addr:street": "Jalan Cak Doko",
+        "amenity": "pharmacy",
+        "contact:phone": "(0380) 831807",
+        "dispensing": "yes",
+        "health_facility:access": "public",
+        "health_facility:type": "pharmacy",
+        "healthcare": "pharmacy",
+        "medical_system:western": "yes",
+        "name": "Apotik Anugrah Farma",
+        "opening_hours": "08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.5956328,
+          -10.1661762
+        ]
+      },
+      "id": "node/1615127545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1621068595",
+        "addr:city": "Kupang",
+        "addr:country": "ID",
+        "addr:postcode": "85228",
+        "addr:street": "Jl. Timor Raya Km. 05",
+        "amenity": "pharmacy",
+        "contact:phone": "(0380) 829889",
+        "health_facility:access": "public",
+        "health_facility:type": "pharmacy",
+        "medical_system:western": "yes",
+        "name": "Apotik Jenie Farma",
+        "opening_hours": "08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6272727,
+          -10.1446485
+        ]
+      },
+      "id": "node/1621068595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1621068613",
+        "addr:city": "Kupang",
+        "addr:country": "ID",
+        "addr:postcode": "85228",
+        "addr:street": "Jl. Timor Raya",
+        "amenity": "pharmacy",
+        "health_facility:access": "public",
+        "health_facility:type": "pharmacy",
+        "medical_system:western": "yes",
+        "name": "Optik Internasional (Alat Pendengaran dan softlens)",
+        "opening_hours": "08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6272378,
+          -10.1445773
+        ]
+      },
+      "id": "node/1621068613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1621109622",
+        "addr:city": "Kupang",
+        "addr:country": "ID",
+        "addr:housenumber": "77",
+        "addr:street": "Jalan Amabi",
+        "amenity": "pharmacy",
+        "contact:phone": "(0380) 821909",
+        "dispensing": "yes",
+        "health_facility:access": "public",
+        "health_facility:type": "pharmacy",
+        "medical_system:western": "yes",
+        "name": "Apotik Genesis",
+        "opening_hours": "09:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.618665,
+          -10.1774008
+        ]
+      },
+      "id": "node/1621109622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1621109637",
+        "addr:city": "Kupang",
+        "addr:country": "ID",
+        "addr:street": "Jalan Perintis Kemerdekaan",
+        "amenity": "pharmacy",
+        "contact:phone": "(0380) 8554110",
+        "dispensing": "yes",
+        "health_facility:access": "public",
+        "health_facility:type": "pharmacy",
+        "medical_system:western": "yes",
+        "name": "Apotik Harapan Bunda",
+        "opening_hours": "09:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6211148,
+          -10.1684804
+        ]
+      },
+      "id": "node/1621109637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1621109650",
+        "addr:city": "Kupang",
+        "addr:country": "ID",
+        "addr:housenumber": "95 E",
+        "addr:street": "Jalan W.J Lalamentik",
+        "amenity": "pharmacy",
+        "contact:phone": "(0380)840333",
+        "dispensing": "yes",
+        "emergency": "yes",
+        "health_facility:access": "public",
+        "health_facility:type": "pharmacy",
+        "healthcare": "pharmacy",
+        "medical_system:western": "yes",
+        "name": "Apotik K-24",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6118489,
+          -10.1716359
+        ]
+      },
+      "id": "node/1621109650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1621109663",
+        "addr:city": "Kupang",
+        "addr:country": "ID",
+        "addr:housenumber": "48",
+        "addr:street": "Jalan Bundaran PU",
+        "amenity": "pharmacy",
+        "contact:phone": "+62 0380 8554030",
+        "dispensing": "yes",
+        "health_facility:access": "public",
+        "health_facility:type": "pharmacy",
+        "medical_system:western": "yes",
+        "name": "Apotik Putra Fajar",
+        "opening_hours": "09:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6307893,
+          -10.1626111
+        ]
+      },
+      "id": "node/1621109663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1621109687",
+        "addr:city": "Kupang",
+        "addr:country": "ID",
+        "addr:street": "Jalan Bundaran PU",
+        "amenity": "pharmacy",
+        "contact:phone": "+62 812-3995-606",
+        "dispensing": "yes",
+        "health_facility:access": "public",
+        "health_facility:type": "pharmacy",
+        "medical_system:western": "yes",
+        "name": "Apotik Raya Farma",
+        "opening_hours": "09:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6299298,
+          -10.1646105
+        ]
+      },
+      "id": "node/1621109687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1633459711",
+        "addr:city": "Kota Kupang",
+        "addr:country": "ID",
+        "addr:housenumber": "No.1",
+        "addr:postcode": "85111",
+        "addr:street": "Jl. urip Sumoharjo",
+        "amenity": "pharmacy",
+        "contact:phone": "(0380) 833537",
+        "health_facility:access": "public",
+        "health_facility:type": "pharmacy",
+        "healthcare": "pharmacy",
+        "medical_system:western": "yes",
+        "name": "Apotek Ani",
+        "opening_hours": "08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.5846964,
+          -10.1614288
+        ]
+      },
+      "id": "node/1633459711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1642693288",
+        "addr:city": "Kupang",
+        "addr:country": "ID",
+        "addr:housenumber": "36",
+        "addr:postcode": "85111",
+        "addr:street": "Jl. Jenderal Soeharto",
+        "amenity": "pharmacy",
+        "contact:fax": "0380-32016",
+        "emergency": "no",
+        "health_facility:access": "public",
+        "health_facility:type": "pharmacy",
+        "medical_system:western": "yes",
+        "name": "Advent Farma",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.5977024,
+          -10.1789341
+        ]
+      },
+      "id": "node/1642693288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1642693298",
+        "addr:city": "Kupang",
+        "addr:country": "ID",
+        "addr:housenumber": "41",
+        "addr:postcode": "85111",
+        "addr:street": "Jl. Jendral Soeharto",
+        "amenity": "pharmacy",
+        "contact:phone": "+62 0380 832621",
+        "health_facility:access": "public",
+        "health_facility:type": "pharmacy",
+        "medical_system:western": "yes",
+        "name": "Kimia Farma",
+        "opening_hours": "09:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.5999516,
+          -10.1805739
+        ]
+      },
+      "id": "node/1642693298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1642693304",
+        "addr:city": "Kupang",
+        "addr:country": "ID",
+        "addr:housenumber": "60",
+        "addr:postcode": "85111",
+        "addr:street": "Jl. Jenderal Soeharto",
+        "amenity": "pharmacy",
+        "health_facility:access": "public",
+        "health_facility:type": "pharmacy",
+        "medical_system:western": "yes",
+        "name": "Toko Obat Berijin \"Medika\"",
+        "opening_hours": "09:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.5993018,
+          -10.1801706
+        ]
+      },
+      "id": "node/1642693304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1923254034",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Apotik Tiara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6553039,
+          -10.1563596
+        ]
+      },
+      "id": "node/1923254034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11484173269",
+        "amenity": "pharmacy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6045285,
+          -10.1850486
+        ]
+      },
+      "id": "node/11484173269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11484428670",
+        "amenity": "pharmacy",
+        "name": "Kimiafarma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.5984718,
+          -10.173526
+        ]
+      },
+      "id": "node/11484428670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11484432569",
+        "amenity": "pharmacy",
+        "name": "Apotik Palapa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6001687,
+          -10.1722149
+        ]
+      },
+      "id": "node/11484432569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11484441669",
+        "amenity": "pharmacy",
+        "name": "Kimiafarma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6105623,
+          -10.1568043
+        ]
+      },
+      "id": "node/11484441669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11496177769",
+        "amenity": "pharmacy",
+        "name": "Kimia Farma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.5916695,
+          -10.1581243
+        ]
+      },
+      "id": "node/11496177769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12869831101",
+        "addr:housenumber": "No. 51",
+        "addr:street": "Jalan Ahmad Yani",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Apotek Crystal Farma Merdeka",
+        "opening_hours": "24/7",
+        "phone": "+62 813-3904-0336"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.5867265,
+          -10.1604567
+        ]
+      },
+      "id": "node/12869831101"
+    }
+  ]
+}

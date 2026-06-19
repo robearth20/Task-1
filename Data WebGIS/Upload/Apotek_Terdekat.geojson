@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "Apotek_Terdekat",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "amenity": "pharmacy", "name": "Advent Farma", "opening_hours": "24/7", "Longitude": 123.5977, "Latitude": 123.5977, "Aksesibilitas": "Mudah Diakses" }, "geometry": { "type": "Point", "coordinates": [ 123.597702400000017, -10.1789341 ] } },
+{ "type": "Feature", "properties": { "amenity": "pharmacy", "name": null, "opening_hours": null, "Longitude": 123.60453, "Latitude": 123.60453, "Aksesibilitas": "Mudah Diakses" }, "geometry": { "type": "Point", "coordinates": [ 123.6045285, -10.1850486 ] } },
+{ "type": "Feature", "properties": { "amenity": "pharmacy", "name": "Kimiafarma", "opening_hours": null, "Longitude": 123.59847, "Latitude": 123.59847, "Aksesibilitas": "Mudah Diakses" }, "geometry": { "type": "Point", "coordinates": [ 123.598471799999984, -10.173526 ] } },
+{ "type": "Feature", "properties": { "amenity": "pharmacy", "name": "Apotik Palapa", "opening_hours": null, "Longitude": 123.60017, "Latitude": 123.60017, "Aksesibilitas": "Mudah Diakses" }, "geometry": { "type": "Point", "coordinates": [ 123.600168700000012, -10.1722149 ] } },
+{ "type": "Feature", "properties": { "amenity": "pharmacy", "name": "Toko Obat Berijin \"Medika\"", "opening_hours": "09:00-20:00", "Longitude": 123.5993, "Latitude": 123.5993, "Aksesibilitas": "Mudah Diakses" }, "geometry": { "type": "Point", "coordinates": [ 123.599301800000021, -10.1801706 ] } },
+{ "type": "Feature", "properties": { "amenity": "pharmacy", "name": "Apotik K-24", "opening_hours": "24/7", "Longitude": 123.61185, "Latitude": 123.61185, "Aksesibilitas": "Mudah Diakses" }, "geometry": { "type": "Point", "coordinates": [ 123.611848900000012, -10.1716359 ] } },
+{ "type": "Feature", "properties": { "amenity": "pharmacy", "name": "Kimia Farma", "opening_hours": "09:00-21:00", "Longitude": 123.59995, "Latitude": 123.59995, "Aksesibilitas": "Mudah Diakses" }, "geometry": { "type": "Point", "coordinates": [ 123.5999516, -10.1805739 ] } },
+{ "type": "Feature", "properties": { "amenity": "pharmacy", "name": "Apotik Genesis", "opening_hours": "09:00-21:00", "Longitude": 123.61866, "Latitude": 123.61866, "Aksesibilitas": "Mudah Diakses" }, "geometry": { "type": "Point", "coordinates": [ 123.618665, -10.1774008 ] } }
+]
+}

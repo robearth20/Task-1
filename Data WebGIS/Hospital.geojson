@@ -1,0 +1,404 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-06-19T03:07:45Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1621068614",
+        "addr:city": "Kupang",
+        "addr:country": "ID",
+        "addr:postcode": "85228",
+        "addr:street": "Jl. Sumatiro",
+        "amenity": "hospital",
+        "health_facility:access": "public",
+        "health_facility:type": "hospital",
+        "medical_system:western": "yes",
+        "name": "Posyandu Bunda VI",
+        "opening_hours": "08:00-13:00 setiap tanggal 12 per bulan",
+        "operator": "village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6297973,
+          -10.1500109
+        ]
+      },
+      "id": "node/1621068614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1621068615",
+        "addr:city": "Kupang",
+        "addr:country": "ID",
+        "addr:postcode": "85228",
+        "addr:street": "Jl. Timor Raya Km. 07",
+        "amenity": "hospital",
+        "contact:phone": "(0380) 833360",
+        "emergency": "yes",
+        "health_facility:access": "public",
+        "health_facility:type": "hospital",
+        "medical_system:western": "yes",
+        "name": "Rumah Sakit Hewan",
+        "opening_hours": "24/7",
+        "operator": "province"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6332331,
+          -10.1479487
+        ]
+      },
+      "id": "node/1621068615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1621095906",
+        "addr:city": "Kupang",
+        "addr:country": "ID",
+        "amenity": "hospital",
+        "description": "Rumah warga",
+        "health_facility:type": "hospital",
+        "medical_system:western": "yes",
+        "name": "Posyandu Bukit Sion",
+        "opening_hours": "Tiap tanggal 20"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6109702,
+          -10.250411
+        ]
+      },
+      "id": "node/1621095906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1621095910",
+        "addr:city": "Kupang",
+        "addr:country": "ID",
+        "amenity": "hospital",
+        "health_facility:type": "hospital",
+        "medical_system:western": "yes",
+        "name": "Posyandu Melati",
+        "opening_hours": "Tiap tanggal 22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6000742,
+          -10.2225784
+        ]
+      },
+      "id": "node/1621095910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1621095935",
+        "addr:city": "Kupang",
+        "addr:country": "ID",
+        "amenity": "hospital",
+        "description": "Rumah warga",
+        "health_facility:type": "hospital",
+        "medical_system:western": "yes",
+        "name": "Posyandu Sejahtera",
+        "opening_hours": "Tiap tanggal 08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6229451,
+          -10.2507148
+        ]
+      },
+      "id": "node/1621095935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1621095957",
+        "addr:country": "ID",
+        "amenity": "hospital",
+        "description": "Rumah warga",
+        "health_facility:type": "hospital",
+        "medical_system:western": "yes",
+        "name": "Posyandu",
+        "opening_hours": "Tiap tanggal 15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6063898,
+          -10.2306253
+        ]
+      },
+      "id": "node/1621095957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1621095962",
+        "addr:city": "Kupang",
+        "addr:country": "ID",
+        "amenity": "hospital",
+        "health_facility:type": "hospital",
+        "medical_system:western": "yes",
+        "name": "Puskesmas Pembantu Fatukoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6076767,
+          -10.2318572
+        ]
+      },
+      "id": "node/1621095962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1621109824",
+        "addr:city": "Kupang",
+        "addr:country": "ID",
+        "addr:housenumber": "69 D",
+        "addr:street": "Jalan Rantai Damai",
+        "amenity": "hospital",
+        "contact:phone": "(0380) 8553914",
+        "emergency": "yes",
+        "health_facility:access": "public",
+        "health_facility:type": "hospital",
+        "medical_system:western": "yes",
+        "name": "Rumah Sakit Ibu Dan Anak Dedari",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6275791,
+          -10.1662838
+        ]
+      },
+      "id": "node/1621109824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1623040038",
+        "addr:city": "Kupang",
+        "addr:country": "ID",
+        "addr:street": "Jl. H. R. Koroh, Bello",
+        "amenity": "hospital",
+        "health_facility:access": "public",
+        "health_facility:type": "hospital",
+        "medical_system:western": "yes",
+        "name": "Pustu Bello",
+        "opening_hours": "07:00-14:00",
+        "operator": "Kelurahan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6264985,
+          -10.2185367
+        ]
+      },
+      "id": "node/1623040038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1623067028",
+        "addr:country": "ID",
+        "addr:street": "Jl. H. R. Koroh, Bello",
+        "amenity": "hospital",
+        "health_facility:access": "Pribadi",
+        "health_facility:type": "hospital",
+        "medical_system:western": "yes",
+        "name": "Klinik St. Carolus Borromeus",
+        "opening_hours": "07:00-14:00, 15:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6209612,
+          -10.2150558
+        ]
+      },
+      "id": "node/1623067028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1641363062",
+        "addr:city": "Kupang",
+        "addr:country": "ID",
+        "addr:housenumber": "20",
+        "addr:street": "Jl. Kecubung",
+        "amenity": "hospital",
+        "health_facility:type": "hospital",
+        "medical_system:western": "yes",
+        "name": "Posyandu Putri Malu",
+        "opening_hours": "Tanggal 08"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.601864,
+          -10.1894913
+        ]
+      },
+      "id": "node/1641363062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1655560628",
+        "addr:country": "ID",
+        "addr:street": "jl.rantai damai IV",
+        "amenity": "hospital",
+        "health_facility:access": "public",
+        "health_facility:type": "hospital",
+        "medical_system:western": "yes",
+        "name": "Posyandu Asoka",
+        "opening_hours": "08:00-10:00",
+        "operator": "subdistrict"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6298982,
+          -10.1619819
+        ]
+      },
+      "id": "node/1655560628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1655560629",
+        "addr:country": "ID",
+        "amenity": "hospital",
+        "health_facility:access": "public",
+        "health_facility:type": "hospital",
+        "medical_system:western": "yes",
+        "name": "Posyandu Kasih Sayang",
+        "opening_hours": "08:00-10:00",
+        "operator": "subdistrict"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6327257,
+          -10.1629872
+        ]
+      },
+      "id": "node/1655560629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1655560630",
+        "addr:country": "ID",
+        "amenity": "hospital",
+        "health_facility:access": "public",
+        "health_facility:type": "hospital",
+        "medical_system:western": "yes",
+        "name": "Posyandu Sayang Anak",
+        "operator": "subdistrict"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.632484,
+          -10.159944
+        ]
+      },
+      "id": "node/1655560630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1655560631",
+        "addr:country": "ID",
+        "addr:street": "gang.kantor lurah",
+        "amenity": "hospital",
+        "health_facility:access": "public",
+        "health_facility:type": "hospital",
+        "medical_system:western": "yes",
+        "name": "Pustu Tuak Taun Merah",
+        "opening_hours": "08:00-13:00",
+        "operator": "subdistrict"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6346868,
+          -10.1617239
+        ]
+      },
+      "id": "node/1655560631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9555594617",
+        "amenity": "hospital",
+        "healthcare": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6239387,
+          -10.1822278
+        ]
+      },
+      "id": "node/9555594617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11484347769",
+        "amenity": "hospital",
+        "name": "RSUD Undana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6015298,
+          -10.1825221
+        ]
+      },
+      "id": "node/11484347769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12867890402",
+        "addr:street": "Jalan Timor Raya",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "UGD - RS SK Lerik",
+        "name:de": "Notfallaufnahme - SK Lerik Krankenhaus",
+        "name:en": "Emergency - SK Lerik Hospital",
+        "name:id": "UGD - RS SK Lerik",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.6085019,
+          -10.1493084
+        ]
+      },
+      "id": "node/12867890402"
+    }
+  ]
+}
